@@ -2,29 +2,20 @@
 
 
 
-React Native Image Picker for android and ios
-<img src = "src/screenshots/Screenshot_20240313_092917_apicallreactnative.jpg" height="400">
-<img src = "src/screenshots/Screenshot_20240313_092927_apicallreactnative.jpg" height="400">
-<img src = "src/screenshots/Screenshot_20240313_092939_apicallreactnative.jpg" height="400">
+ways for API calls into React Native application.
+<img src = "src/screenshots/Screenshot_20240313_094955_apicallreactnative.jpg" height="400">
+<img src = "src/screenshots/Screenshot_20240313_095014_apicallreactnative.jpg" height="400">
+<img src = "src/screenshots/Screenshot_20240313_095020_apicallreactnative.jpg" height="400">
 
 
 
 
     	# App features
-    	1. Pick image from camera and gallery from phone
-    	2.  includeBase64
-    	3.storageOptions: {
-        skipBackup: true,
-        path: 'images',
-      }
+    	1. Fetch API
+    	2. Making requests
+    	3. axios api calls
 
 
-
-
-
-    	# Reference
-
-    	1. [Used rect-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 
 ## Created with:
 

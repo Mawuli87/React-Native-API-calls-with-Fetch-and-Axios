@@ -63,7 +63,7 @@ export default HomeScreen = () => {
     return (
         <View style={styles.parentContainer}>
             <View>
-                <Text style={styles.textStyle}>In this tutorial, we will implement all the provided methods for API calls into React Native application.</Text>
+                <Text style={styles.textStyle}>In this project, we will implement all the provided methods for API calls into React Native application.</Text>
             </View>
             <View style={{ margin: 18 }}>
                 <Button
